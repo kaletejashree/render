@@ -1,0 +1,28 @@
+.content{
+    padding-top: 10px;
+}
+.row{
+    display: flex;
+    gap: 10px;
+
+    /* mat-form-field{
+        width: 100%;
+    } */
+}
+.row mat-form-field{
+    width: 100%;
+}
+.action{
+    padding: 0px 25px 20px;
+    /* button{
+        flex:1;
+    } */
+}
+
+.action button{
+    flex:1;
+}
+
+.empform{
+    background-image: linear-gradient(white,rgb(192, 254, 255));
+}
